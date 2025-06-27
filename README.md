@@ -2,7 +2,8 @@
 
 **Tickletimer** is a terminal-based multi-stopwatch application built with [Bubbletea](https://github.com/charmbracelet/bubbletea) — designed for speed, clarity, and a little flair. Track multiple timers with animations, key-driven control, and persistent storage across sessions.
 
-![screenshot](https://user-images.githubusercontent.com/your-screenshot-here.png)
+![screenshot](![swappy-20250626_220653](https://github.com/user-attachments/assets/4fc82adb-85c6-4006-8c56-2ba81216bc70)
+)
 
 ---
 
