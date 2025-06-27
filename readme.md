@@ -80,3 +80,4 @@ Built with:
     The libre software community
 
 Inspired by the desire to track time without distraction.
+
